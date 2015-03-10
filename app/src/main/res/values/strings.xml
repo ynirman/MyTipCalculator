@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTipCalculator</string>
+    <string name="default_message">Please enter bill amount</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="chkRound">Round to nearest dollar</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="txtTipResult">Tip: </string>
+    <string name="action_settings">Settings</string>
+</resources>
